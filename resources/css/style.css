@@ -26,3 +26,7 @@ a {
     font-size: 21px;
     color: gray;
 }
+
+.rights-reserved {
+    text-align: right;
+    color: gray;
